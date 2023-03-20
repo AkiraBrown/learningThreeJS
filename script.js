@@ -1,7 +1,7 @@
 "use strict";
 
 import * as THREE from "three";
-import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+// import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 // import * as dat from "dat.gui";
 
 //Debug
