@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "es-module-shims": "^1.7.0",
-    "three": "^0.150.1",
-    "type": "module"
+    "three": "^0.150.1"
   }
 }
